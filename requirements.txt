@@ -1,0 +1,8 @@
+torch
+transformers
+sentencepiece
+pandas
+numpy
+scikit-learn
+pillow
+jupyter

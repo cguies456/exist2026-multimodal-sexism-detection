@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Dataset (licensed, request it from the EXIST organisers)
+data/
+
+# Generated when running the notebook
+submissions/
